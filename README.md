@@ -1,3 +1,4 @@
+## 转载自https://github.com/hite/AppHost
 ![AppHost](https://upload-images.jianshu.io/upload_images/277783-768ecdd81b026a44.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 AppHost 是一整体解决 H5 和 native 协作开发的框架和服务。试图解决 native 和 H5 目前开发质量低下、业务膨胀后代码混乱、两端联调困难等，彼此割裂的现状。
